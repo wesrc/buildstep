@@ -42,6 +42,7 @@ python-dev
 ruby1.9.1-dev
 rubygems
 socat
+supervisor
 sqlite3
 telnet
 zlib1g-dev
